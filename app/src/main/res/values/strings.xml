@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationReader</string>
+    <string name="action_settings">Notification Settings</string>
+</resources>
